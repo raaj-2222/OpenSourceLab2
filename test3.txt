@@ -1,0 +1,6 @@
+Hi,
+These
+are
+basic
+git
+cmds
